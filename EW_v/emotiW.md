@@ -2,26 +2,22 @@
 
 ## Audio_video based champion
 1. 2019
-	* [Bi-modality Fusion for Emotion Recognition in the Wild](http://delivery.acm.org/10.1145/3360000/3355710/p546-dhall.pdf?ip=223.3.51.134&id=3355710&acc=OPEN&key=BF85BBA5741FDC6E%2EEEBE655830483280%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573117149_6af0505287f8d04e7e935ad391a9e639#URLTOKEN#)
-	* [paper_link](https://www.researchgate.net/publication/336632111_Bi-modality_Fusion_for_Emotion_Recognition_in_the_Wild)
+	* [Bi-modality Fusion for Emotion Recognition in the Wild](https://www.researchgate.net/publication/336632111_Bi-modality_Fusion_for_Emotion_Recognition_in_the_Wild)
 	* [AIPL_东南大学情感信息处理实验室](http://aip.seu.edu.cn/)
 	* [baseline_EmotiW 2019: Automatic Emotion, Engagement and Cohesion Prediction Tasks](http://delivery.acm.org/10.1145/3360000/3355710/p546-dhall.pdf?ip=223.3.51.134&id=3355710&acc=OPEN&key=BF85BBA5741FDC6E%2EEEBE655830483280%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573116551_1354cc54690437d902193119325c9121)
 
 2. 2018
-	* [Multi-Feature Based Emotion Recognition for Video Clips](http://delivery.acm.org/10.1145/3270000/3264989/p630-liu.pdf?ip=223.3.51.134&id=3264989&acc=OA&key=BF85BBA5741FDC6E%2EEEBE655830483280%2E4D4702B0C3E38B35%2E65B561F191013DD0&__acm__=1573117307_5dc4eb58244a9b8b960e4586e2a64def)
-	* [paper_link](http://delivery.acm.org/10.1145/3270000/3264989/p630-liu.pdf?ip=54.203.5.49&id=3264989&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E65B561F191013DD0&__acm__=1573113981_65a2eb0a25d08863acf7c04f19d0ac62)
+	* [Multi-Feature Based Emotion Recognition for Video Clips](http://delivery.acm.org/10.1145/3270000/3264989/p630-liu.pdf?ip=54.203.5.49&id=3264989&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E65B561F191013DD0&__acm__=1573113981_65a2eb0a25d08863acf7c04f19d0ac62)
 	* [SituTech_思图科技](http://www.situdata.com/#/)
 	* [baseline_EmotiW 2018: Audio-Video, Student Engagement and Group-Level Affect Prediction](https://www.researchgate.net/publication/328038088_EmotiW_2018_Audio-Video_Student_Engagement_and_Group-Level_Affect_Prediction)
 
 3. 2017
-	* [Learning supervised scoring ensemble for emotion recognition in the wild](http://delivery.acm.org/10.1145/3150000/3143009/icmi17-sl-2037.pdf?ip=223.3.51.134&id=3143009&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EEEBE655830483280%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1573117468_e095917dbc6d3c1865897918ca5cf3c7)
-	* [paper_link](https://www.onacademic.com/detail/journal_1000040134906610_1663.html#)
+	* [Learning supervised scoring ensemble for emotion recognition in the wild](https://www.onacademic.com/detail/journal_1000040134906610_1663.html#)
 	* [Intel Labs China_英特尔中国实验室](https://www.intel.com/content/www/us/en/research/overview.html)
 	* [baseline_From individual to group-level emotion recognition: EmotiW 5.0](https://www.researchgate.net/publication/320885919_From_individual_to_group-level_emotion_recognition_EmotiW_50)
 
 4. 2016
-	* [Video-based emotion recognition using CNN-RNN and C3D hybrid networks](http://delivery.acm.org/10.1145/3000000/2997632/p445-fan.pdf?ip=223.3.51.134&id=2997632&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EEEBE655830483280%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1573117179_03268b134af839ff6c8440e719b48bd3)
-	* [paper_link](https://www.researchgate.net/publication/308453418_Video-based_emotion_recognition_using_CNN-RNN_and_C3D_hybrid_networks)
+	* [Video-based emotion recognition using CNN-RNN and C3D hybrid networks](https://www.researchgate.net/publication/308453418_Video-based_emotion_recognition_using_CNN-RNN_and_C3D_hybrid_networks)
 	* [iqiyi_爱奇艺](https://www.iqiyi.com/)
 	* [baseline_EmotiW 2016: video and group-level emotion recognition challenges](https://www.researchgate.net/publication/309612049_EmotiW_2016_video_and_group-level_emotion_recognition_challenges)
 
